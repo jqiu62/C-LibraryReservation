@@ -1,0 +1,5 @@
+Day:3 Interval:2 StudentId:1 StudentName:Mike LibraryRoom:3 Status:0
+Day:1 Interval:1 StudentId:1 StudentName:Mike LibraryRoom:1 Status:0
+Day:4 Interval:2 StudentId:1 StudentName:Mike LibraryRoom:2 Status:2
+Day:4 Interval:1 StudentId:3 StudentName:Alice LibraryRoom:2 Status:2
+Day:1 Interval:1 StudentId:3 StudentName:Alice LibraryRoom:1 Status:-1
